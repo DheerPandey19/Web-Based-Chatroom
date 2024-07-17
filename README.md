@@ -55,3 +55,6 @@ Web-Based Chatroom is a multi-user chat application designed for interactive mes
   - Posts from all users are seen in one consolidated place
 - **Interraction With Community**
   - Provided a like/unlike option to see who's posts are gaining traction
+- **Logout Security**
+  - Removes the current cookie to a ull value and redirects you back to login page
+
